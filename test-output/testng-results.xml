@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29821" started-at="2019-08-12T16:50:06Z" finished-at="2019-08-12T16:50:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29821" started-at="2019-08-12T16:50:06Z" finished-at="2019-08-12T16:50:36Z">
+      <class name="SelPackage.SeleniumClass">
+        <test-method status="PASS" signature="setupDrivers()[pri:0, instance:SelPackage.SeleniumClass@5cb9f472]" name="setupDrivers" is-config="true" duration-ms="5412" started-at="2019-08-12T22:20:06Z" finished-at="2019-08-12T22:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDrivers -->
+        <test-method status="PASS" signature="test()[pri:0, instance:SelPackage.SeleniumClass@5cb9f472]" name="test" duration-ms="24328" started-at="2019-08-12T22:20:12Z" finished-at="2019-08-12T22:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- SelPackage.SeleniumClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
